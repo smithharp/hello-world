@@ -1,0 +1,11 @@
+Updates to my portfolio
+
+Did a bunch of research on R and ggplot2:
+https://www.youtube.com/watch?v=HPJn1CMvtmI
+https://www.sharpsightlabs.com/blog/ggplot2-tutorial/
+https://www.statology.org/import-csv-into-r/
+these links and others
+
+Wrote my first scrip to handle my data 'mushrooms.csv'
+
+About 10 hours total
