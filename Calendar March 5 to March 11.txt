@@ -1,0 +1,31 @@
+
+3/5 Sat
+Individual project: 2 hours
+
+
+3/6 Sun
+Reading: 1 hour
+
+3/7 Mon
+Reading: 1 hour
+Group work: 1 hour
+
+3/8 Tue
+Individual project: 2 hours
+- Worked on summaries page
+
+3/9 Wed
+Reading: 1 hour
+
+3/10 Thu
+Reading: 1 hour
+Lab: 1 hour
+Individual project: 1 hour
+
+3/11 Fri
+Lab: 30 minutes
+Individual project: 2 hours
+- built shiny dashboard framework
+- finished ggplot viz
+
+Total: 13.5 hours
